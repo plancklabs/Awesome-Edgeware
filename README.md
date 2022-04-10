@@ -56,7 +56,12 @@ Edgeware is a smart contract platform for building decentralized applications(dA
 
 ## Blockchain Explorer
 
-- 
+- [Subscan](https://edgeware.subscan.io/)- Edgeware blockchain explorer built by Subscan team.
+- [Edgscan](https://github.com/edgeware-builders/edgscan)- EDG scanner is a blockchain explorer built on top of Edgeware network.
+- [Expedition](https://beresheet.vercel.app/?network=Edgeware%20EVM)- A lite blockchain explorer built for Edgeware network.
+
+## Defi Platforms
+
 
 
 
