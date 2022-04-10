@@ -37,4 +37,12 @@ Edgeware is a smart contract platform for building decentralized applications(dA
 - [ARCs](#arcs)
 - [Metrics](#metrics)
 
+## Official
+
+- [Edgeware](https://edgewa.re/) - Official website.
+- [Edgeware FAQ](https://docs.edgeware.wiki/resources/faq/faqs-for-new-users) - FAQ maintained by the team of Edgeware.
+- [Edgeware Governance](https://gov.edgewa.re/) - Official website of Edgeware governance where most discussion happens.
+- [Edgeware Chat](http://edgeware.chat/) - Edgeware team discuss ideas, share news and resources.
+
+
 
