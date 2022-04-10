@@ -12,6 +12,8 @@ Edgeware is a smart contract platform for building decentralized applications(dA
     
     "Governed by thousands, Owned by No-one Open to All"
     
+</div>
+<br/>
 
 
 
