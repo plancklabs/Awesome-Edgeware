@@ -23,19 +23,21 @@ Edgeware is a smart contract platform for building decentralized applications(dA
 - [Official](#official)
 - [Wallets](#wallets)
 - [Blockchain Explorers](#blockchain-explorers)
-- [Portfolio Trackers](#portfolio-trackers)
+- [DeFi Platforms](#defi-platforms)
+- [Governance Platforms](#governance-platforms)
+- [Infrastructure](#infrastructure)
+- [NFT Marketplaces](#nft-marketplaces)
+- [DeFi Platforms](#defi-platforms)
+- [Oracles](#oracles)
+- [Community](#community)
+- [Privacy](#arcs)
+- [Legal](#metrics)
+- [Media](#media) 
 - [Learning](#learning)
 - [Development](#development)
 - [IDEs](#ides)
 - [Tools](#tools)
-- [NFT Marketplaces](#nft-marketplaces)
-- [DeFi Platforms](#defi-platforms)
-- [Bridges](#bridges)
-- [Oracles](#oracles)
-- [Name Services](#name-services)
-- [Community](#community)
-- [ARCs](#arcs)
-- [Metrics](#metrics)
+- [Other](#other)
 
 ## Official
 
@@ -51,6 +53,10 @@ Edgeware is a smart contract platform for building decentralized applications(dA
 - [Polkawallet](https://polkawallet.io/) - Complete Crypto wallet for Polkadot and Kusama ecosystem.
 - [Enzyme](https://getenzyme.dev/) - Browser based Web Wallet for Polkadot and Kusama.
 - [Clover Wallet](https://wallet.clover.finance/#/) - An open-source multi currency wallet that lives in your browser.
+
+## Blockchain Explorer
+
+- 
 
 
 
