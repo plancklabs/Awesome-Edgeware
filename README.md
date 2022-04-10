@@ -17,5 +17,22 @@ Edgeware is a smart contract platform for building decentralized applications(dA
 
 
 ##### Contents
+    
+- [Official](#official)
+- [Wallets](#wallets)
+- [Blockchain Explorers](#blockchain-explorers)
+- [Portfolio Trackers](#portfolio-trackers)
+- [Learning](#learning)
+- [Development](#development)
+- [IDEs](#ides)
+- [Tools](#tools)
+- [NFT Marketplaces](#nft-marketplaces)
+- [DeFi Platforms](#defi-platforms)
+- [Bridges](#bridges)
+- [Oracles](#oracles)
+- [Name Services](#name-services)
+- [Community](#community)
+- [ARCs](#arcs)
+- [Metrics](#metrics)
 
 
