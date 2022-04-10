@@ -45,4 +45,13 @@ Edgeware is a smart contract platform for building decentralized applications(dA
 - [Edgeware Chat](http://edgeware.chat/) - Edgeware team discuss ideas, share news and resources.
 
 
+## Wallets
+
+- [Math Wallet](https://mathwallet.org/en-us/) - The Mutichain Wallet for Web3
+- [Polkawallet](https://polkawallet.io/) - Complete Crypto wallet for Polkadot and Kusama ecosystem.
+- [Enzyme](https://getenzyme.dev/) - Browser based Web Wallet for Polkadot and Kusama.
+- [Clover Wallet](https://wallet.clover.finance/#/) - An open-source multi currency wallet that lives in your browser.
+
+
+
 
