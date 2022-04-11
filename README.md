@@ -58,9 +58,13 @@ Edgeware is a smart contract platform for building decentralized applications(dA
 
 - [Subscan](https://edgeware.subscan.io/)- Edgeware blockchain explorer built by Subscan team.
 - [Edgscan](https://github.com/edgeware-builders/edgscan)- EDG scanner is a blockchain explorer built on top of Edgeware network.
-- [Expedition](https://beresheet.vercel.app/?network=Edgeware%20EVM)- A lite blockchain explorer built for Edgeware network.
+- [Expedition](https://beresheet.vercel.app/?network=Edgeware%20EVM)- A lite weight blockchain explorer built for Edgeware network.
 
 ## Defi Platforms
+
+- [Stafi Protocol](https://www.stafi.io/)- A Cross Chain Staking Derivative Protocol where you can send and receive messages between blockchain.
+- [Tidal Finance](https://tidal.finance/)- Flexible insurance for the DeFi economy.
+- [Picoswap](https://picoswap.medium.com/)- Pico is a protocol for decentralized exchange built on Edgeware, a pioneering Polkadot smart contract             blockchain.
 
 
 
