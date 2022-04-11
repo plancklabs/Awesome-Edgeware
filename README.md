@@ -66,6 +66,12 @@ Edgeware is a smart contract platform for building decentralized applications(dA
 - [Tidal Finance](https://tidal.finance/)- Flexible insurance for the DeFi economy.
 - [Picoswap](https://picoswap.medium.com/)- Pico is a protocol for decentralized exchange built on Edgeware, a pioneering Polkadot smart contract             blockchain.
 
+## Governance Platforms
+
+- [Edgeware Agency](https://edgeware.agency/)- A metaDAO on the Edgeware Network that supports the growth and adoption of the Edgeware Ecosystem of chains.
+- [Mailchain](https://www.mailchain.xyz/)- Send and receive messages between blockchain addresses through a simple, email-like interface.
+- [Decent Partners](https://decent.partners/)- Decent develops community networks that are funded, governed and owned by the people they represent.
+
 
 
 
