@@ -75,7 +75,7 @@ Edgeware is a smart contract platform for building decentralized applications(dA
 
 - [OnFinality](https://www.onfinality.io/)- They provides support for blockchain developers by providing infrastructure and API services to automate         blockchain DevOps.
 - [Patract Elara](https://github.com/patractlabs/elara)- Elara provides Polkadot developers with free, instant and scalable blockchain API access services,   including Polkadot, Kusama, etc.
-- [
+- 
 
 
 
