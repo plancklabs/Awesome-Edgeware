@@ -75,7 +75,10 @@ Edgeware is a smart contract platform for building decentralized applications(dA
 
 - [OnFinality](https://www.onfinality.io/)- They provides support for blockchain developers by providing infrastructure and API services to automate         blockchain DevOps.
 - [Patract Elara](https://github.com/patractlabs/elara)- Elara provides Polkadot developers with free, instant and scalable blockchain API access services,   including Polkadot, Kusama, etc.
-- 
+- [Knit Finance](https://knit.finance/)- Knit is a protocol for creating cross-chain wrappers for the top-200 assets.
+- [Biconomy](https://www.biconomy.io/)-Biconomy enables simple blockchain transactions by leveraging scalable relayer infrastructure.
+- [Covalent](https://www.covalenthq.com/)-Covalent provides a unified API bringing visibility to billions of blockchain data points.
+
 
 
 
